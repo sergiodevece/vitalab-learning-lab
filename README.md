@@ -288,5 +288,3 @@ Vitalab Audio · Vitalab Learning Lab
 © 2026 Sergio Devece · Vitalab Audio. Todos los derechos reservados.
 
 Este proyecto forma parte de un proceso personal de aprendizaje, portfolio y desarrollo de herramientas propias.
-
-> Si en el futuro quieres abrirlo a la comunidad, puedes cambiar esta sección por una licencia MIT y añadir un archivo `LICENSE`.
